@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&family=Tilt+Neon&family=Zilla+Slab&display=swap');
+
+.bg-color{
+    background-color: #192a56;
+}
+h1{
+    color: white;
+    font-family: 'Tilt Neon', cursive;
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+/* input{
+    border: none;
+
+}
+input:focus{
+    border: none;
+    outline: none;
+}
+input::selection{
+    background: none;
+} */
+label{
+    color: white;
+}
+.singleDummy{
+    color: black;
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.container{
+    /* margin-left: 300px; */
+    margin-left: auto;
+    margin-right: auto;
+}
